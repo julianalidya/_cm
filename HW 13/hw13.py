@@ -106,3 +106,4 @@ def solve_ode_general(coefficients):
 
     # ---- final string ----
     return "y(x) = " + " + ".join(terms)
+
