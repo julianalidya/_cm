@@ -1,6 +1,7 @@
 # Linear ODE General Solution Program
 
 [AI Conversation](https://chatgpt.com/share/695a4d59-b508-800d-aec2-a1610bfdb3f6)
+All are direct copies from ChatGPT without modification.
 
 ## Introduction
 Linear differential equations with constant coefficients appear frequently in mathematics, physics, and engineering, such as in motion models, electrical circuits, and population growth models.
